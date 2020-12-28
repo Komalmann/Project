@@ -1,0 +1,2 @@
+"We are learning Git & Github"
+"A new skill before 2020 ends! Yayyy!"
